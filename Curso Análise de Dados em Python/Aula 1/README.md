@@ -48,5 +48,7 @@ Essa aula me proporcionou uma base em análise de dados usando Python, abordando
   
 ## Conclusão
 
-- Realizei minhas anotações de todo o aprendizado no Notion. Essa foi aula de 3 hrs de duração, aprendida pelo Youtube.
+- Realizei minhas anotações de todo o aprendizado no Notion. E
+- Aula de 3 hrs de duração, aprendida pelo Youtube.
+- Datasets parecidos, pois as aulas foram gravadas em 2018 e não foi encontrado os mesmos dados utilizados. Então, foi realizado downloads dos dados mais atuais, contendo diferenças.
   
