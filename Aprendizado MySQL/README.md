@@ -27,3 +27,10 @@ insert into pessoas
 values
 ("Márcia", "1985-03-28", "F", "78.5", "1.67", "Brasil");
 ```
+
+- Nesse caso, não precisa inserir o nome das colunas, porque os dados foram inseridos em ordem.
+ou
+```sql
+insert into pessoas values
+(DEFAULT, "Alessandra", "1970-09-20", "65.3","1.65","Irlanda")
+```
