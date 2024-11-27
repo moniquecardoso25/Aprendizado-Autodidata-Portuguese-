@@ -32,5 +32,7 @@ values
 ou
 ```sql
 insert into pessoas values
-(DEFAULT, "Alessandra", "1970-09-20", "65.3","1.65","Irlanda")
+(DEFAULT, "Alessandra", "1970-09-20", "65.3","1.65","Irlanda");
+
+select * from pessoas;
 ```
